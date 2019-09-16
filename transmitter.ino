@@ -1,3 +1,8 @@
+/*
+ * Code Modified By: Mohamad Hafiz Bin Ahmad
+ * Email: hafiz_apik99@yahoo.com
+ * Youtube: https://www.youtube.com/channel/UC15t8HwKsRL2lTeP8uZlUjQ
+*/
 #include <SPI.h>
 #include <nRF24L01.h> 
 #include <RF24.h> //https://www.arduinolibraries.info/libraries/rf24
